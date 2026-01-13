@@ -21,4 +21,3 @@ specify properties, and develop correct and verified programs.
 ## 👩‍💻 Useful resources
 
 - https://lean-lang.org/
-
