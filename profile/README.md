@@ -36,4 +36,3 @@ Sessions:
 ## 👩‍💻 Useful Resources
 
 - https://lean-lang.org/
-
