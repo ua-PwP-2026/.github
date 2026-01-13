@@ -12,12 +12,12 @@ generating and constructing proofs will be covered. Through practical
 activities and exercises, students will learn to formalize theorems,
 specify properties, and develop correct and verified programs.
 
-## Registration and attendance
+## 🔭 Registration and attendance
 
 To register, please send an email to (madeira@ua.pt and
 martins@ua.pt). The meeting is registration free.
 
-## Course Program
+## 💪 Course Program
 
 10 hours course
 
