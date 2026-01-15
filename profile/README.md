@@ -36,3 +36,9 @@ Sessions:
 ## 👩‍💻 Useful Resources
 
 - https://lean-lang.org/
+
+## 🏆 Support
+
+This course was supported in part by the Portuguese Foundation for Science and Technology (FCT - Fundação para a Ciência e a Tecnologia), through CIDMA - Center for Research and Development in Mathematics and Applications, within project UID/04106/2025 (https://doi.org/10.54499/UID/04106/2025).
+
+This course is also supported in part by [Atlas Computing](https://atlascomputing.org) with the grant provided by [Schmidt Science](https://www.schmidtsciences.org/) for the 'Derisking InterAgent' project.
