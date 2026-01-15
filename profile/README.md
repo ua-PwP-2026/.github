@@ -1,11 +1,9 @@
-![Programming with Proofs](banner_web.png)
-
 # Programming with proofs
 
 - Department of Mathematics, University of Aveiro
 - Alexandre Rademaker (FGV School of Mathematics, Brazil)
 
-<img src="banner_web.png" align="left" width="150"/>
+<img src="banner_web.png" align="left" width="450"/>
 
 <p> The course will present the fundations of computer-assisted proofs
 and program verification, using the <href
