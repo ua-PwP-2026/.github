@@ -1,7 +1,7 @@
 # Programming with proofs
 
-- Department of Mathematics, University of Aveiro
-- Alexandre Rademaker (FGV School of Mathematics, Brazil)
+- [Department of Mathematics, University of Aveiro](https://www.ua.pt/pt/dmat)
+- [Alexandre Rademaker](https://arademaker.github.io) - [FGV School of Mathematics](https://emap.fgv.br)
 
 <img src="banner_web.png" align="right" width="450"/>
 
@@ -19,11 +19,6 @@ correct and verified programs. </p>
 
 ---
 
-## 🔭 Registration and attendance
-
-To register, please send an email to (madeira@ua.pt and
-martins@ua.pt). The meeting is registration free.
-
 ## 💪 Course Program
 
 10 hours course
@@ -37,15 +32,19 @@ Sessions:
 
 ## 🙋‍♀️ Course Links
 
-- https://github.com/ua-PwP-2026/
 - Fórum https://github.com/orgs/ua-PwP-2026/discussions
-
-## 👩‍💻 Useful Resources
-
-- https://lean-lang.org/
+- Lean https://lean-lang.org/
+- assignment https://classroom.github.com/a/V-oSKa3S
 
 ## 🏆 Support
 
-This course was supported in part by the Portuguese Foundation for Science and Technology (FCT - Fundação para a Ciência e a Tecnologia), through CIDMA - Center for Research and Development in Mathematics and Applications, within project UID/04106/2025 (https://doi.org/10.54499/UID/04106/2025).
+This course was supported in part by the Portuguese Foundation for
+Science and Technology (FCT - Fundação para a Ciência e a Tecnologia),
+through CIDMA - Center for Research and Development in Mathematics and
+Applications, within project UID/04106/2025
+(https://doi.org/10.54499/UID/04106/2025).
 
-This course is also supported in part by [Atlas Computing](https://atlascomputing.org) with the grant provided by [Schmidt Science](https://www.schmidtsciences.org/) for the 'Derisking InterAgent' project.
+This course is also supported in part by [Atlas
+Computing](https://atlascomputing.org) with the grant provided by
+[Schmidt Science](https://www.schmidtsciences.org/) for the 'Derisking
+InterAgent' project.
