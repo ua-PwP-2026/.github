@@ -1,7 +1,7 @@
-# Programming with proofs
 
-- [Department of Mathematics, University of Aveiro](https://www.ua.pt/pt/dmat)
-- [Alexandre Rademaker](https://arademaker.github.io) - [FGV School of Mathematics](https://emap.fgv.br)
+[Department of Mathematics, University of Aveiro](https://www.ua.pt/pt/dmat)
+
+[Alexandre Rademaker](https://arademaker.github.io) ([FGV School of Mathematics](https://emap.fgv.br))
 
 <img src="banner_web.png" align="right" width="450"/>
 
@@ -30,10 +30,10 @@ martins@ua.pt). The meeting is registration free.
 
 Sessions:
 
-- 14/01 (10:00 and 14:00)
-- 15/01 (10:00)
-- 21/01 (14:00)
-- 22/01 (10:00)
+- 14/01/2026 (10:00 and 14:00)
+- 15/01/2026 (10:00)
+- 21/01/2026 (14:00)
+- 22/01/2026 (10:00)
 
 ## 🙋‍♀️ Course Links
 
