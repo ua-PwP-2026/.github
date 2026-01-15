@@ -1,16 +1,21 @@
+![Programming with Proofs](banner_web.png)
+
 # Programming with proofs
 
 - Department of Mathematics, University of Aveiro
 - Alexandre Rademaker (FGV School of Mathematics, Brazil)
 
-The course will present the fundations of computer-assisted proofs and
-program verification, using the [Lean 4 proof assistant](https://lean-lang.org/), which integrates specification,
-functional programming, and formal proof in a single environment. The
-principles of deductive reasoning, type theory, the relationship
-between mathematical logic and programming, and techniques for
-generating and constructing proofs will be covered. Through practical
-activities and exercises, students will learn to formalize theorems,
-specify properties, and develop correct and verified programs.
+<img src="banner_web.png" align="left" width="150"/>
+
+<p> The course will present the fundations of computer-assisted proofs
+and program verification, using the <href
+src="https://lean-lang.org/">Lean</a>, which integrates specification,
+functional programming, and formal proof. The principles of deductive
+reasoning, type theory, the relationship between mathematical logic
+and programming, and techniques for generating and constructing proofs
+will be covered. Through practical activities and exercises, students
+will learn to formalize theorems, specify properties, and develop
+correct and verified programs. </p>
 
 ## 🔭 Registration and attendance
 
