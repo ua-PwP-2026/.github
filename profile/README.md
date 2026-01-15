@@ -19,6 +19,11 @@ correct and verified programs. </p>
 
 ---
 
+## 🔭 Registration and attendance
+
+To register, please send an email to (madeira@ua.pt and
+martins@ua.pt). The meeting is registration free.
+
 ## 💪 Course Program
 
 10 hours course
@@ -34,7 +39,6 @@ Sessions:
 
 - Fórum https://github.com/orgs/ua-PwP-2026/discussions
 - Lean https://lean-lang.org/
-- assignment https://classroom.github.com/a/V-oSKa3S
 
 ## 🏆 Support
 
