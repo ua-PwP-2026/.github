@@ -15,6 +15,8 @@ will be covered. Through practical activities and exercises, students
 will learn to formalize theorems, specify properties, and develop
 correct and verified programs. </p>
 
+<br/><br/><br/><br/><br/>
+
 ---
 
 ## 🔭 Registration and attendance
