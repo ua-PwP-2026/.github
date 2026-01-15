@@ -1,7 +1,8 @@
 
-[Department of Mathematics, University of Aveiro](https://www.ua.pt/pt/dmat)
+# Programming with proofs
 
-[Alexandre Rademaker](https://arademaker.github.io) ([FGV School of Mathematics](https://emap.fgv.br))
+- [Department of Mathematics, University of Aveiro](https://www.ua.pt/pt/dmat)
+- [Alexandre Rademaker](https://arademaker.github.io) ([FGV School of Mathematics](https://emap.fgv.br))
 
 <img src="banner_web.png" align="right" width="450"/>
 
