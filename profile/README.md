@@ -3,7 +3,7 @@
 - Department of Mathematics, University of Aveiro
 - Alexandre Rademaker (FGV School of Mathematics, Brazil)
 
-<img src="banner_web.png" align="left" width="450"/>
+<img src="banner_web.png" align="right" width="450"/>
 
 <p> The course will present the fundations of computer-assisted proofs
 and program verification, using the <href
@@ -14,6 +14,8 @@ and programming, and techniques for generating and constructing proofs
 will be covered. Through practical activities and exercises, students
 will learn to formalize theorems, specify properties, and develop
 correct and verified programs. </p>
+
+---
 
 ## 🔭 Registration and attendance
 
